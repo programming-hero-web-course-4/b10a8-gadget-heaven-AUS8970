@@ -1,0 +1,308 @@
+[
+  {
+    "product_id": "LAP001",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/rM628Vs/Dell-XPS-13.jpg",
+    "category": "Laptops",
+    "price": 1200,
+    "description": "13-inch laptop with an InfinityEdge display, sleek design, and powerful performance.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.3-inch FHD Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "LAP002",
+    "product_title": "MacBook Pro 16",
+    "product_image": "https://i.ibb.co.com/fMfhDhC/Mac-Book-Pro-16.jpg",
+    "category": "MacBook",
+    "price": 2400,
+    "description": "16-inch MacBook Pro with M1 Pro chip, designed for pro users.",
+    "specification": [
+      "Apple M1 Pro",
+      "16GB RAM",
+      "1TB SSD",
+      "16-inch Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "PHN001",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/HDGfr1K/i-Phone-14-Pro.jpg",
+    "category": "iPhone",
+    "price": 999,
+    "description": "Apple iPhone 14 Pro with A16 Bionic chip and improved camera system.",
+    "specification": [
+      "A16 Bionic",
+      "128GB Storage",
+      "48MP Main Camera",
+      "6.1-inch Display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "PHN002",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co.com/B3gBpty/Samsung-Galaxy-S23.jpg",
+    "category": "Phones",
+    "price": 800,
+    "description": "High-performance smartphone with advanced features from Samsung.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "8GB RAM",
+      "256GB Storage",
+      "6.7-inch AMOLED Display"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "ACC001",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://i.ibb.co.com/q7cSpSm/Apple-Air-Pods-Pro.jpg",
+    "category": "Accessories",
+    "price": 249,
+    "description": "Apple's premium wireless earbuds with active noise cancellation.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Transparency Mode",
+      "Wireless Charging"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "ACC002",
+    "product_title": "Logitech MX Master 3 Mouse",
+    "product_image": "https://i.ibb.co.com/23M2J0h/Logitech-MX-Master-3-Mouse.jpg",
+    "category": "Accessories",
+    "price": 99,
+    "description": "Advanced ergonomic mouse with customizable buttons.",
+    "specification": [
+      "Ergonomic Design",
+      "Customizable Buttons",
+      "Bluetooth and USB Connectivity"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "WAT001",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/mFCv6cv/Apple-Watch-Series-8.jpg",
+    "category": "Smart Watches",
+    "price": 399,
+    "description": "Advanced health and fitness smartwatch with heart rate monitoring.",
+    "specification": [
+      "ECG App",
+      "Blood Oxygen Sensor",
+      "GPS",
+      "Always-On Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "WAT002",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/8K1RRzP/Samsung-Galaxy-Watch-5.jpg",
+    "category": "Smart Watches",
+    "price": 280,
+    "description": "Smartwatch with advanced health tracking features.",
+    "specification": [
+      "GPS",
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "Water Resistant"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "LAP003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/M7xXtj8/HP-Spectre-x360.jpg",
+    "category": "Laptops",
+    "price": 1300,
+    "description": "Convertible laptop with touchscreen and stylus support.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.3-inch Touchscreen"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "LAP004",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/dgYcT95/Lenovo-Think-Pad-X1-Carbon.jpg",
+    "category": "Laptops",
+    "price": 1500,
+    "description": "Lightweight, powerful laptop designed for business professionals.",
+    "specification": ["Intel i7", "16GB RAM", "1TB SSD", "14-inch FHD Display"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "MAC001",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/h8pgfz6/Mac-Book-Air-M2.jpg",
+    "category": "MacBook",
+    "price": 999,
+    "description": "Apple MacBook Air with M2 chip, light and powerful.",
+    "specification": [
+      "Apple M2",
+      "8GB RAM",
+      "256GB SSD",
+      "13.6-inch Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "PHN003",
+    "product_title": "Google Pixel 7",
+    "product_image": "https://i.ibb.co.com/ynkBCz7/Google-Pixel-7.jpg",
+    "category": "Phones",
+    "price": 650,
+    "description": "Google's flagship smartphone with pure Android experience.",
+    "specification": [
+      "Google Tensor",
+      "8GB RAM",
+      "128GB Storage",
+      "6.3-inch OLED Display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "PHN004",
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co.com/nCMz4fM/download-12.jpg",
+    "category": "Phones",
+    "price": 750,
+    "description": "High-speed phone with fast charging and top-notch display.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "12GB RAM",
+      "256GB Storage",
+      "6.7-inch AMOLED Display"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "ACC003",
+    "product_title": "Samsung Galaxy Buds Pro",
+    "product_image": "https://i.ibb.co.com/ZWPybn5/Samsung-Galaxy-Buds-Pro.jpg",
+    "category": "Accessories",
+    "price": 199,
+    "description": "Premium wireless earbuds with noise cancellation.",
+    "specification": [
+      "Active Noise Cancellation",
+      "IPX7 Waterproof",
+      "Wireless Charging"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "ACC004",
+    "product_title": "Apple MagSafe Charger",
+    "product_image": "https://i.ibb.co.com/2ZGkrR1/Apple-Mag-Safe-Charger.jpg",
+    "category": "Accessories",
+    "price": 39,
+    "description": "Wireless charger with magnetic attachment for iPhones.",
+    "specification": [
+      "MagSafe Compatibility",
+      "15W Charging",
+      "USB-C Connector"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "WAT003",
+    "product_title": "Fitbit Charge 5",
+    "product_image": "https://i.ibb.co.com/c32RPfm/Fitbit-Charge-5.jpg",
+    "category": "Smart Watches",
+    "price": 150,
+    "description": "Fitness tracker with built-in GPS and health monitoring.",
+    "specification": [
+      "Built-In GPS",
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "Stress Management"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "WAT004",
+    "product_title": "Garmin Forerunner 255",
+    "product_image": "https://i.ibb.co.com/pft1Rv0/Garmin-Forerunner-255.jpg",
+    "category": "Smart Watches",
+    "price": 350,
+    "description": "Advanced GPS smartwatch for running enthusiasts.",
+    "specification": [
+      "Multi-GNSS",
+      "VO2 Max",
+      "Music Storage",
+      "Pulse Ox Sensor"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "MAC002",
+    "product_title": "MacBook Pro 14 M2 Pro",
+    "product_image": "https://i.ibb.co.com/JzkWZc0/Mac-Book-Pro-14-M2-Pro.jpg",
+    "category": "MacBook",
+    "price": 1999,
+    "description": "MacBook Pro 14 with the powerful M2 Pro chip for professionals.",
+    "specification": [
+      "Apple M2 Pro",
+      "16GB RAM",
+      "512GB SSD",
+      "14.2-inch Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "PHN005",
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://i.ibb.co.com/PQFgqSM/i-Phone-13-Mini.jpg",
+    "category": "iPhone",
+    "price": 599,
+    "description": "Compact version of iPhone 13 with all premium features.",
+    "specification": ["A15 Bionic", "128GB Storage", "5.4-inch OLED Display"],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": "PHN006",
+    "product_title": "Xiaomi Mi 12",
+    "product_image": "https://i.ibb.co.com/dg22vZ8/Xiaomi-Mi-12.jpg",
+    "category": "Phones",
+    "price": 650,
+    "description": "Affordable phone with powerful performance.",
+    "specification": [
+      "Snapdragon 888",
+      "8GB RAM",
+      "256GB Storage",
+      "6.8-inch AMOLED Display"
+    ],
+    "availability": true,
+    "rating": 4.4
+  }
+]
