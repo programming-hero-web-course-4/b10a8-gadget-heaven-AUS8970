@@ -1,10 +1,16 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-const Card = () => {
+const Card = ({product}) => {
   const {product_id, product_title, product_image, category, price, description, specification, availability, rating} = product || {}
   return (
-    <div>
-      {product_title}
+    <div className='p-6 rounded-xl bg-white flex flex-col gap-4'>
+      <img className='rounded-xl w-full h-64' src={product_image} alt="" />
+      <h2 className="text-2xl font-semibold">{product_title}</h2>
+      <p className="text-xl text-gray-600 font-semibold">Price: {price}k </p>
+      <Link to={`product/${product_id}`}>
+        <button className="btn text-[#9538E2] border-2 border-[#9538E2] rounded-full bg-white text-xl font-semibold"> View Details </button>
+      </Link>
     </div>
   );
 };

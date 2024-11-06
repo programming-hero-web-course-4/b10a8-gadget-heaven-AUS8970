@@ -4,8 +4,8 @@ import ErrorPage from '../pages/ErrorPage';
 import Statistics from '../pages/Statistics';
 import Dashboard from '../pages/Dashboard';
 import Home from '../pages/Home';
-import ProductsSection from '../Before/ProductsSection';
 import ProductCards from '../components/ProductCards';
+import ProductDetails from '../components/ProductDetails';
 
 const routes = createBrowserRouter([
   {
@@ -19,11 +19,21 @@ const routes = createBrowserRouter([
         loader: () => fetch('../categories.json'),
         children: [
           {
+            path: '/',
+            element: <ProductCards />,
+            loader: () => fetch('../products.json'),
+          },
+          {
             path: '/category/:category',
             element: <ProductCards />,
             loader: () => fetch('../products.json'),
           },
         ]
+      },
+      {
+        path: '/product/:product_id',
+        element: <ProductDetails />,
+        loader: () => fetch('../products.json'),
       },
       {
         path: '/statistics',

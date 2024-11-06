@@ -3,7 +3,7 @@
     "product_id": "LAP001",
     "product_title": "Dell XPS 13",
     "product_image": "https://i.ibb.co.com/rM628Vs/Dell-XPS-13.jpg",
-    "category": "Laptops",
+    "category": "Laptops", 
     "price": 1200,
     "description": "13-inch laptop with an InfinityEdge display, sleek design, and powerful performance.",
     "specification": [
